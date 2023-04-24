@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**gothlul/gothlul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/gothlul">
+  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/>
+  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>habilidades:</p>
+
+<div>
+  
+</div>
