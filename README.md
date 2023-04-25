@@ -11,5 +11,18 @@
 <p>habilidades:</p>
 
 <div>
-  
+  <img>
+  <img>
+  <img>
+  <img gif >
 </div>
+
+ <p>Em estudo:</p>
+
+<div>
+  <img>
+  <img>
+  <img>
+</div>
+  
+ ##
