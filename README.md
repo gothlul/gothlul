@@ -1,10 +1,14 @@
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&lines=First+line+of+text;Second+line+of+text&repeat=false)](https://git.io/typing-svg)
 
+<img alt="Card-de-Identificação"/>
+
+##
+
 <div>
   <a href="https://github.com/gothlul">
-  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=080808&include_all_commits=true&cont_private=true&title_color=ee33ff&icon_color=ee33ff&text_color=ffffff"/>
-  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=080808&title_color=ee33ff&icon_color=ee33ff&text_color=ffffff"/>
+  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=080808&include_all_commits=true&cont_private=true&title_color=ed4040&icon_color=ed4040&text_color=ffffff"/>
+  <img heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=080808&title_color=ed4040&icon_color=ed4040&text_color=ffffff"/>
 </div><br>
 
 <div>
