@@ -7,8 +7,8 @@
 
 <div align="top">
   <a href="https://github.com/gothlul">
-  <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=080808&include_all_commits=true&cont_private=true&title_color=ed4040&icon_color=ed4040&text_color=ffffff&margin-w=10px"/>
-  <img width="45%" heigth="180em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=080808&title_color=ed4040&icon_color=ed4040&text_color=ffffff&margin-w=10px"/>
+  <img width="495px" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=080808&include_all_commits=true&cont_private=true&title_color=ed4040&icon_color=ed4040&text_color=ffffff&margin-w=10px"/>
+  <img width="495px" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=080808&title_color=ed4040&icon_color=ed4040&text_color=ffffff&margin-w=10px"/>
 </div><br>
 
 <div>
@@ -27,7 +27,7 @@
   
  ##
  
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
+<p align="right">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
 </p>
   
