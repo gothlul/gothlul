@@ -19,10 +19,10 @@
 
 ##
  
-<div>
-  <img align="left" heigth="250px" alt="Sonic" src=""/>
-  <p align="right">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
+<div align="center">
+  <img heigth="250px" alt="Sonic" src=""/>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
   </p>
 </div>
   
@@ -34,8 +34,9 @@
     <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-252525?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-252525?style=for-the-badge" target="_blank"/></a>
+    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-252525.svg?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+    <img align="right" alt="gif"/>
   </div>
-  <img align="right" alt="gif"/>
   
 </div>
   
