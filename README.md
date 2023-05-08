@@ -1,10 +1,10 @@
 ##
 
-<img width="300px" alt="Card-de-Identificação" align="right" src="https://raw.githubusercontent.com/gist/gothlul/ed54fc42819e6c45d3789d187335542b/raw/6e5757458ef9633a5de82507c984b9d0ec28baaf/Card-Github.svg"/>
+<img width="300px" alt="Card-de-Identificação" align="right" src="https://raw.githubusercontent.com/gist/gothlul/ed54fc42819e6c45d3789d187335542b/raw/b82b21b0b3a861993f0d55fbfa32ac74d8b69f09/Card-Github.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&color=9B1F1F&lines=First+line+of+text;Second+line+of+text&repeat=false)](https://git.io/typing-svg)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##
 <div align="top">
