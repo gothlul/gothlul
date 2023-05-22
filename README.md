@@ -45,4 +45,4 @@
   
 ##
  
-  
+  <img alt="footer_image" src="">
