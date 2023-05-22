@@ -1,4 +1,3 @@
-##
 
 <img width="300px" alt="Card-de-Identificação" align="right" src="https://raw.githubusercontent.com/gist/gothlul/ed54fc42819e6c45d3789d187335542b/raw/b82b21b0b3a861993f0d55fbfa32ac74d8b69f09/Card-Github.svg"/>
 
@@ -41,9 +40,7 @@
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
   </p>
-</div>
+</div><br><br>
   
-##
- 
-  <img alt="footer_image" src="">
+<img alt="footer_image" src="">
   
