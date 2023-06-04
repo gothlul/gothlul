@@ -36,7 +36,8 @@
 </div>
 
 ##
- 
+  
+<br> 
 <div>
   <img align="left" width="450px" alt="Window" src="https://github.com/gothlul/gothlul/assets/130483602/3473d7ad-a6de-4123-a001-b329dd2853ec"/>
   <p>
