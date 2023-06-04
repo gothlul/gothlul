@@ -8,17 +8,17 @@
 <br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##
-<div align="center"><br>
+<div align="center">
   <div>
-    <img align="left" alt="gif"/>
+    <img align="left" height="100px" src="https://github.com/gothlul/gothlul/assets/130483602/d8e0dcb6-d197-4046-85ef-7ebb640e3447" alt="gif"/>
+    <img align="right" height="100px" src="https://github.com/gothlul/gothlul/assets/130483602/8b285d54-4447-4b28-b958-6f814c93dc9b" alt="gif"/>
+    <br>
     <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-202020.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
     <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-202020.svg?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-202020?style=for-the-badge" target="_blank"/></a>
-    <img align="right" alt="gif"/>
   </div>
-  
-</div>
+</div><br>
 
 ##
 <br>
@@ -38,7 +38,7 @@
 ##
  
 <div align="center">
-  <img heigth="250px" width="450px" alt="Sonic" src=""/>
+  <img heigth="250px" width="450px" alt="Window" src="https://github.com/gothlul/gothlul/assets/130483602/3473d7ad-a6de-4123-a001-b329dd2853ec"/>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
   </p>
