@@ -45,5 +45,4 @@
   </p>
 </div><br><br>
 
-<img alt="footer_image" src="">
   
