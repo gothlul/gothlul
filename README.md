@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&color=9B1F1F&lines=First+line+of+text;Second+line+of+text&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&color=9B1F1F&lines=XXXX+XXXXX+XX+XXXX;XXXXX+XXX+XXXXXXX+XX&repeat=false)](https://git.io/typing-svg)
 
 <br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
