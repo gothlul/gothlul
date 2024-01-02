@@ -9,9 +9,6 @@
 ##
 <div align="center">
   <div>
-    <img align="left" height="100px" src="https://github.com/gothlul/gothlul/assets/130483602/d8e0dcb6-d197-4046-85ef-7ebb640e3447" alt="gif"/>
-    <img align="right" height="100px" src="https://github.com/gothlul/gothlul/assets/130483602/8b285d54-4447-4b28-b958-6f814c93dc9b" alt="gif"/>
-    <br>
     <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-202020.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-202020.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
