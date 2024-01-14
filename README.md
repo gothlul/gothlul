@@ -1,15 +1,19 @@
 
-<br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br>
 
 <div>
   Tecnologias:
   <br><br>
-  <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="PHP" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 </div>
 
 ##
@@ -31,12 +35,9 @@
   <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=090909&include_all_commits=true&cont_private=true&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
   <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=090909&title_color=22C7F5&icon_color=22C7F5&text_color=ffffff&margin-w=10px"/>
 </div><br>
-    
-##
 
-![Snake animation](https://github.com/gothlul/gothlul/blob/output/github-contribution-grid-snake.svg)
-  
-<br> 
+##
+<br>
 <div>
   <img align="left" width="450px" alt="Window" src="https://github.com/gothlul/gothlul/assets/130483602/3473d7ad-a6de-4123-a001-b329dd2853ec"/>
   <p>
