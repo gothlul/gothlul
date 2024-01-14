@@ -33,6 +33,8 @@
 </div><br>
     
 ##
+
+![Snake animation](https://github.com/gothlul/gothlul/blob/output/github-contribution-grid-snake.svg)
   
 <br> 
 <div>
