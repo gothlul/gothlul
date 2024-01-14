@@ -1,10 +1,16 @@
 
-<img width="300px" alt="Card-de-Identificação" align="right" src="https://raw.githubusercontent.com/gist/gothlul/ed54fc42819e6c45d3789d187335542b/raw/b82b21b0b3a861993f0d55fbfa32ac74d8b69f09/Card-Github.svg"/>
-
-<br>
-
 <br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<div>
+  Tecnologias:
+  <br><br>
+  <img alt="HTML5" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img alt="C++" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
 
 ##
 <div align="center">
@@ -23,18 +29,7 @@
   <img width="410px" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=090909&include_all_commits=true&cont_private=true&title_color=9B1F1F&icon_color=9B1F1F&text_color=ffffff&margin-w=10px"/>
   <img width="410px" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=090909&title_color=9B1F1F&icon_color=9B1F1F&text_color=ffffff&margin-w=10px"/>
 </div><br>
-
-<div>
-  Tecnologias:
-  <br><br>
-  <img alt="HTML5" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt="C++" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-
+    
 ##
   
 <br> 
