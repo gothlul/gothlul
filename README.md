@@ -4,18 +4,20 @@
 <div>
   Tecnologias:
   <br><br>
-  <img alt="HTML5" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="CSS3" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt="C++" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 ##
+
+<br>
 <div align="center">
   <div>
-    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-202020.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-202020?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-202020.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-202020?style=for-the-badge"/></a>
@@ -26,8 +28,8 @@
 <br>
 <div align="top">
   <a href="https://github.com/gothlul">
-  <img width="410px" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=090909&include_all_commits=true&cont_private=true&title_color=9B1F1F&icon_color=9B1F1F&text_color=ffffff&margin-w=10px"/>
-  <img width="410px" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=090909&title_color=9B1F1F&icon_color=9B1F1F&text_color=ffffff&margin-w=10px"/>
+  <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=090909&include_all_commits=true&cont_private=true&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
+  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=090909&title_color=22C7F5&icon_color=22C7F5&text_color=ffffff&margin-w=10px"/>
 </div><br>
     
 ##
