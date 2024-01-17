@@ -1,5 +1,5 @@
 
-<br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br><br><br><br><br><br><br><br><br>
+<br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma (cursando - 3/6)<br><br><br><br><br><br><br><br><br><br>
 
 <div>
   Tecnologias:
