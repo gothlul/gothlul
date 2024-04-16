@@ -5,13 +5,15 @@
   Tecnologias:
   <div>
     <br><br>
-    <blockquote color="#fff">Front-end</blockquote>
+    <blockquote>Front-end</blockquote>
     <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <br><br><br>
-    <blockquote>Back-end</blockquote>
-    <img alt="PHP" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <blockquote color="blue">Back-end</blockquote>
+    <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
+    <img alt="Python" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img alt="C" align="center" height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"/>
     <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <br><br><br>
     <blockquote>Banco de dados</blockquote>
