@@ -4,10 +4,9 @@
 ### Tecnologias:
 
 <br>
-
 <br>
 
-  > ![Front-end](https://place-hold.it/80x25/000/fff&text=Front-end&bold&fontsize=12)
+  > ![Front-end](https://place-hold.it/70x25/0D1117/fff&text=Front-end&bold&fontsize=12)
 
   <div>
     <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -16,7 +15,7 @@
     <br><br><br>
   </div>
 
-  > ![Back-end](https://place-hold.it/80x25/000/fff&text=Back-end&bold&fontsize=12)
+  > ![Back-end](https://place-hold.it/65x25/0D1117/fff&text=Back-end&bold&fontsize=12)
 
   <div>
     <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
@@ -26,21 +25,21 @@
     <br><br><br>
   </div>
 
-  > ![Banco](https://place-hold.it/80x25/000/fff&text=Banco&bold&fontsize=12)
+  > ![Banco](https://place-hold.it/45x25/0D1117/fff&text=Banco&bold&fontsize=12)
 
   <div>
     <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <br><br><br>
   </div>
 
-  > ![Frameworks](https://place-hold.it/110x25/000/fff&text=Frameworks&bold&fontsize=12)
+  > ![Frameworks](https://place-hold.it/88x25/0D1117/fff&text=Frameworks&bold&fontsize=12)
   
   <div>
     <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <br><br><br>
   </div>
   
-  > ![Outras](https://place-hold.it/80x25/000/fff&text=Outras&bold&fontsize=12)
+  > ![Outras](https://place-hold.it/50x25/0D1117/fff&text=Outras&bold&fontsize=12)
   
   <div>
     <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
