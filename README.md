@@ -1,34 +1,54 @@
+- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 3/6)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<br> - Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 3/6)<br><br><br><br><br><br><br><br><br><br>
 
-<div>
-  Tecnologias:
+### Tecnologias: 
+
+<br>
+
+<br>
+
+  > Front-end
+
   <div>
-    <br><br>
-    <blockquote>Front-end</blockquote>
     <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <br><br><br>
-    <blockquote color="blue">Back-end</blockquote>
+  </div>
+
+  > Back-end
+
+  <div>
     <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
     <img alt="Python" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="C" align="center" height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"/>
     <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <br><br><br>
-    <blockquote>Banco de dados</blockquote>
-    <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </div>
+
+  > Banco de dados
+
   <div>
+    <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <br><br><br>
-    <blockquote>Frameworks</blockquote>
+  </div>
+
+  > Frameworks
+  
+  <div>
     <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <br><br><br>
-    <blockquote>Outras</blockquote>
+  </div>
+  
+  > Outras
+  
+  <div>
     <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
     <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <br><br><br>
   </div>
-</div>
+
+
 
 ##
 
@@ -43,6 +63,7 @@
 </div><br>
 
 ##
+
 <br>
 <div align="top">
   <a href="https://github.com/gothlul">
