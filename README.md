@@ -1,5 +1,7 @@
 <img width="35%" align="right" src=""/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Jersey+10&size=28&pause=500&color=22C7F5&random=false&width=435&lines=Ol%C3%A1!,+me+chamo+Lucas+%F0%9F%98%80;Seja+bem-vindo(a)+ao+meu+Github!!"/>
+
 - Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 3/6)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
