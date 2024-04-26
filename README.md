@@ -96,7 +96,7 @@
 ##
 <br>
 <div>
-  <img align="left" width="450px" alt="Window" src="https://github.com/gothlul/gothlul/assets/130483602/3473d7ad-a6de-4123-a001-b329dd2853ec"/>
+  <img align="left" width="450px" alt="window" src="https://i.pinimg.com/564x/a2/76/ce/a276ce9c4c5e4c2e819d04469887e4c0.jpg"/>
   <p>
     <img align="right" heigth="200px" src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
   </p>
