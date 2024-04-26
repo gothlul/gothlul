@@ -1,4 +1,4 @@
-<img width="35%" align="right" src=""/>
+<img width="35%" align="right" src="https://i.pinimg.com/236x/d5/45/97/d54597febda44e5d047fa5284462f15f.jpg"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Jersey+10&size=28&pause=500&color=22C7F5&random=false&width=435&lines=Ol%C3%A1!,+me+chamo+Lucas+%F0%9F%98%80;Seja+bem-vindo(a)+ao+meu+Github!!"/>
 
