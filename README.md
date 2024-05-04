@@ -14,7 +14,7 @@
 <div>
   <blockquote> 
     
-  ![Front-end](https://place-hold.it/70x25/0D1117/fff&text=Front-end&bold&fontsize=12) 
+  ![Linguagens](https://place-hold.it/80x25/0D1117/fff&text=Linguagens&bold&fontsize=12) 
   
   </blockquote>
 
@@ -22,30 +22,24 @@
     <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <br><br><br>
-  </div>
-</div>
-<div>
-  <blockquote>
-    
-  ![Back-end](https://place-hold.it/65x25/0D1117/fff&text=Back-end&bold&fontsize=12)
-  
-  </blockquote>
-  <div>
     <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
     <img alt="Python" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="C" align="center" height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"/>
     <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img alt="SQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     <br><br><br>
   </div>
 </div>
 <div>
   <blockquote>
     
-  ![Banco](https://place-hold.it/45x25/0D1117/fff&text=Banco&bold&fontsize=12)
-    
+  ![Frameworks](https://place-hold.it/85x25/0D1117/fff&text=Frameworks&bold&fontsize=12)
+  
   </blockquote>
   <div>
+    <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    <img alt="Bulma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
+    <img alt="Materialize" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
     <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <br><br><br>
   </div>
@@ -53,25 +47,15 @@
 <div>
   <blockquote>
     
-  ![Frameworks](https://place-hold.it/88x25/0D1117/fff&text=Frameworks&bold&fontsize=12)
-
-  </blockquote>
-  <div>
-    <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <br><br><br>
-  </div>
-</div>
-<div>
-  <blockquote>
+  ![Ferramentas](https://place-hold.it/85x25/0D1117/fff&text=Ferramentas&bold&fontsize=12)
     
-  ![Outras](https://place-hold.it/50x25/0D1117/fff&text=Outras&bold&fontsize=12)
-  
   </blockquote>
   <div>
     <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
     <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <br><br><br>
   </div>
+</div>
 </div>
 
 ##
