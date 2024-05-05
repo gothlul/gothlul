@@ -63,24 +63,29 @@
 <br>
 <div align="center">
   <div>
-    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-202020?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-202020.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-202020?style=for-the-badge"/></a>
+    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-1828B7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1828B7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-1828B7.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-1828B7?style=for-the-badge"/></a>
   </div>
 </div><br>
 
 ##
 
 <br>
+
+### Status github
+
 <div align="top">
   <a href="https://github.com/gothlul">
-  <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&cont_private=true&title_color=22C7F5&icon_color=F818FA&text_color=ffffff&margin-w=10px"/>
-  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=F818FA&text_color=ffffff&margin-w=10px"/>
-</div><br>
+  <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&cont_private=true&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
+  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
+    <!--<img width="45%" heigth="180em" align="right" src="https://streak-stats.demolab.com/?user=gothlul&theme=ocean-gradient"/>
+</div><br>-->
 
 ##
 <br>
+
 <div>
   <img align="left" width="450px" alt="window" src="https://i.pinimg.com/564x/df/24/83/df248343848c45dfb9d2c4c4e41009bd.jpg"/>
   <p>
