@@ -27,6 +27,7 @@
     <img alt="C" align="center" height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"/>
     <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img alt="SQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img alt="GO" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <br><br><br>
   </div>
 </div>
