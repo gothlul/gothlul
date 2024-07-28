@@ -1,4 +1,4 @@
-![Wallpaper-github](https://github.com/gothlul/gothlul/assets/130483602/3038e335-254e-407a-aee7-846ebb7a8d06)
+![Wallpaper-github](https://github.com/user-attachments/assets/b0e099ac-54f3-4343-8c9b-356164cd7b9a)
 
 <img width="35%" align="right" src=""/>
 
