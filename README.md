@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inria+Sans&&repeat=false&size=28&pause=500&color=1D89D6&random=false&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!!+%F0%9F%98%80"/>
 
-- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 3/6)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 4/6)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ### Tecnologias:
@@ -42,6 +42,7 @@
     <img alt="Bulma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
     <img alt="Materialize" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
     <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     <br><br><br>
   </div>
 </div>
