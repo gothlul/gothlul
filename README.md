@@ -42,7 +42,7 @@
     <img alt="Bulma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
     <img alt="Materialize" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
     <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
     <br><br><br>
   </div>
 </div>
