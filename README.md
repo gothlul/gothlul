@@ -10,7 +10,7 @@
 - Implementação de projetos Front-end dinâmicos usando PHP e Javascript<br><br>
 - Criação de projetos performáticos com linguagens Back-end<br><br>
 - Desenvolvimento de projetos baseados em fluxos de CI/CD<br><br>
-- Criação e modelagem de banco de dados relacional e não relacional com SQL e NoSQL<br>
+- Criação e modelagem de banco de dados relacional e não relacional com SQL e NoSQL<br><br><br><br><br><br><br>
 
 
 ### Tecnologias:
