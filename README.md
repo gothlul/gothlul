@@ -4,7 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inria+Sans&&repeat=false&size=28&pause=500&color=1D89D6&random=false&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!!+%F0%9F%98%80"/>
 
-- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 4/6)<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 4/6)<br>
+- Prototipação de layouts e elementos gráficos com Figma<br>
+- Estilização Front-end com CSS, SCSS e SASS<br>
+- Implementação de projetos Front-end dinâmicos usando PHP e Javascript<br>
+- Criação de projetos performáticos com linguagens Back-end<br>
+- Desenvolvimento de projetos baseados em fluxos de CI/CD<br><br><br><br><br><br><br><br><br><br>
 
 
 ### Tecnologias:
