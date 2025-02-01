@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inria+Sans&&repeat=false&size=28&pause=500&color=1D89D6&random=false&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!!+%F0%9F%98%80"/>
 
-- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 4/6)<br><br>
+- Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 5/6)<br><br>
 - Prototipação de layouts e elementos gráficos com Figma<br><br>
 - Estilização Front-end com CSS, SCSS e SASS<br><br>
-- Implementação de projetos Front-end dinâmicos usando PHP e Javascript<br><br>
-- Criação de projetos performáticos com linguagens Back-end<br><br>
+- Implementação de projetos Front-end dinâmicos usando PHP, Javascript e Typescript<br><br>
+- Criação de projetos performáticos com linguagens Back-end orientada a objeto (C# e Java)<br><br>
 - Desenvolvimento de projetos baseados em fluxos de CI/CD<br><br>
 - Criação e modelagem de banco de dados relacional e não relacional com SQL e NoSQL<br><br><br><br><br><br><br>
 
@@ -28,13 +28,18 @@
     <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="Typescript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
     <img alt="Python" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="C" align="center" height="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"/>
     <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    <img alt="C++" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-    <img alt="SQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img alt="C#" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+    <img alt="Java" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
     <img alt="GO" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
+    <img alt="Dart" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+    <img alt="SASS" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
     <br><br><br>
   </div>
 </div>
@@ -48,8 +53,12 @@
     <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <img alt="Bulma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
     <img alt="Materialize" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
-    <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
+    <img alt="MaterialUI" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+    <img alt="Foundation" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundation/foundation-original.svg" />
+    <img alt="TailwindCSS" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Angular" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    <img alt="React" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Spring" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <br><br><br>
   </div>
 </div>
@@ -61,6 +70,10 @@
   </blockquote>
   <div>
     <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img alt="Photoshop" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    <img alt="Illustrator" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+    <img alt="Gimp" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
+    <img alt="Wordpress" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
     <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <br><br><br>
   </div>
