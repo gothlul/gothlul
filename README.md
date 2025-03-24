@@ -7,8 +7,8 @@
 - Tecnólogo em Desenvolvimento de Softwares Multiplataforma (Cursando - 5/6)<br><br>
 - Prototipação de layouts e elementos gráficos com Figma<br><br>
 - Estilização Front-end com CSS, SCSS e SASS<br><br>
-- Implementação de projetos Front-end dinâmicos usando PHP, Javascript e Typescript<br><br>
-- Criação de projetos performáticos com linguagens Back-end orientada a objeto (C# e Java)<br><br>
+- Implementação de projetos Front-end dinâmicos usando PHP e Javascript<br><br>
+- Criação de projetos performáticos com linguagens Back-end orientada a objeto (C# .NET, Java e Dart Flutter)<br><br>
 - Desenvolvimento de projetos baseados em fluxos de CI/CD<br><br>
 - Criação e modelagem de banco de dados relacional e não relacional com SQL e NoSQL<br><br><br><br><br><br><br>
 
@@ -70,8 +70,6 @@
   </blockquote>
   <div>
     <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img alt="Photoshop" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-    <img alt="Illustrator" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
     <img alt="Gimp" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
     <img alt="Wordpress" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
     <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
