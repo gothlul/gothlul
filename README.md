@@ -106,7 +106,7 @@
 ### Status
 
 <div>
-  <img align="left" width="450px" alt="window" src="https://i.pinimg.com/564x/df/24/83/df248343848c45dfb9d2c4c4e41009bd.jpg"/>
+  <img align="left" width="400px" alt="window" src="https://i.pinimg.com/564x/df/24/83/df248343848c45dfb9d2c4c4e41009bd.jpg"/>
   <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
 </div><br><br>
 
