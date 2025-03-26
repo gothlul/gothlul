@@ -103,23 +103,11 @@
 
 <br>
 
-### Status github
-
-<div align="top">
-  <a href="https://github.com/gothlul">
-  <img width="45%" heigth="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=gothlul&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&cont_private=true&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
-  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
-    <!--<img width="45%" heigth="180em" align="right" src="https://streak-stats.demolab.com/?user=gothlul&theme=ocean-gradient"/>
-</div><br>-->
-
-##
-<br>
+### Status
 
 <div>
   <img align="left" width="450px" alt="window" src="https://i.pinimg.com/564x/df/24/83/df248343848c45dfb9d2c4c4e41009bd.jpg"/>
-  <p>
-    <img align="right" heigth="200px" src="https://github-profile-trophy.vercel.app/?username=gothlul&row=2&column=3&margin-w=10px&margin-h=10px&theme=onestar"/>
-  </p>
+  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
 </div><br><br>
 
   
