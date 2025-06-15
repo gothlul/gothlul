@@ -74,7 +74,7 @@
 <div>
   <blockquote>
     
-  ![Design](https://place-hold.it/55x25/0D1117/fff&text=Design&bold&fontsize=12)
+  ![Outras](https://place-hold.it/55x25/0D1117/fff&text=Outras&bold&fontsize=12)
     
   </blockquote>
   <div>
