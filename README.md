@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" src=""/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inria+Sans&&repeat=false&size=28&pause=500&color=1D89D6&random=false&width=435&lines=Seja+bem-vindo(a)+ao+meu+Github!!+%F0%9F%98%80"/>
+<img width="1850" height="470" alt="Image" src="https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404" />
 
 - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br>
 - Prototipação de layouts e elementos gráficos com Figma<br><br>
