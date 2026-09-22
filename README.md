@@ -1,8 +1,8 @@
-![Wallpaper-github](https://github.com/user-attachments/assets/b0e099ac-54f3-4343-8c9b-356164cd7b9a)
+![Wallpaper-github](https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404)
 
 <img width="35%" align="right" src=""/>
 
-<img width="1850" height="470" alt="Image" src="https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404" />
+Bem-vindo
 
 - Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br>
 - Prototipação de layouts e elementos gráficos com Figma<br><br>
