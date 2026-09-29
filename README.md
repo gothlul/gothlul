@@ -1,100 +1,74 @@
 ![Wallpaper-github](https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404)
 
 <hr>
-<h3 align="center">Bem-vindo! 👋</h3>
+  <h3 align="center">Bem-vindo! 👋</h3>
 <hr>
 
-<h3>Sobre mim</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <!--<img alt="Brain" width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/b5cffac0-fd0e-4c75-8f52-74443df15b72" />-->
-      <!--<img width="772" height="1438" alt="Image" src="https://github.com/user-attachments/assets/9bbd37ea-b097-4f90-90f5-d5ff42d804c1" />-->
-      <!--<img alt="Background" width="1152" height="2048" alt="Image" src="https://github.com/user-attachments/assets/0c5502f6-9741-4348-833f-36f6489007cc" />-->
-      <!--<img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/65037740-4316-4e76-860d-0c25b1e021f2" />-->
-      <!--<img width="736" height="1308" alt="Image" src="https://github.com/user-attachments/assets/4ec573be-1b8e-4044-ab16-5cff9fd8b268" />-->
-      <!--<img width="236" height="354" alt="Image" src="https://github.com/user-attachments/assets/dee92f18-1b35-4528-94c1-826961c64459" />-->
-      <img width="736" height="1313" alt="Image" src="https://github.com/user-attachments/assets/58fb42d2-8efd-4d11-bb20-c894b03af9f0" />
-    </td>
-    <td>
-      Olá! Me chamo Lucas.<br><br>
-      Sou estudante da área de tecnologia e desenvolvedor de software, com foco no desenvolvimento de sistemas, APIs e soluções voltadas à automação de processos.<br><br>
-      Atualmente, aprofundo meus estudos em algoritmos, estruturas de dados, arquitetura de software e desenvolvimento backend, buscando entender não apenas como escrever código, mas como projetar sistemas eficientes, organizados e escaláveis.<br><br>
-      Durante meus estudos, priorizo o aprendizado baseado em projetos práticos, aplicando meus conhecimentos a problemas reais e explorando diferentes tecnologias de acordo com as necessidades de cada solução.<br><br>
-      Em meu tempo livre, gosto de estudar sobre o mercado financeiro e acompanhar o cenário econômico global.<br><br>
-      <h4>🔧 Main stacks:</h4>
-      <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-
-<h3>Projetos destaque</h3>
-<h3>Formação & Certificações</h3>
-<h3>Outras tecnologias</h3>
-
-##
-> BACK-END
-<div>
-  <img alt=".NET" align="center" height="40px" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Spring" align="center" height="40px" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" /><br>
-  <img alt="NodeJS" align="center" height="40px" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="C++" align="center" height="40px" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
-  <img alt="PHP" align="center" height="40px" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
-  <img alt="Laravel" align="center" height="40px" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" /><br>
-  <img alt="Python" align="center" height="40px" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" /><br>
-</div>
 <br>
+  <h3>Sobre mim</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <!--<img alt="Brain" width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/b5cffac0-fd0e-4c75-8f52-74443df15b72" />-->
+        <!--<img width="772" height="1438" alt="Image" src="https://github.com/user-attachments/assets/9bbd37ea-b097-4f90-90f5-d5ff42d804c1" />-->
+        <!--<img alt="Background" width="1152" height="2048" alt="Image" src="https://github.com/user-attachments/assets/0c5502f6-9741-4348-833f-36f6489007cc" />-->
+        <!--<img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/65037740-4316-4e76-860d-0c25b1e021f2" />-->
+        <!--<img width="736" height="1308" alt="Image" src="https://github.com/user-attachments/assets/4ec573be-1b8e-4044-ab16-5cff9fd8b268" />-->
+        <!--<img width="236" height="354" alt="Image" src="https://github.com/user-attachments/assets/dee92f18-1b35-4528-94c1-826961c64459" />-->
+        <img width="736" height="1313" alt="Image" src="https://github.com/user-attachments/assets/58fb42d2-8efd-4d11-bb20-c894b03af9f0" />
+      </td>
+      <td>
+        Olá! Me chamo Lucas.<br><br>
+        Sou estudante da área de tecnologia e desenvolvedor de software, com foco no desenvolvimento de sistemas, APIs e soluções voltadas à automação de processos.<br><br>
+        Atualmente, aprofundo meus estudos em algoritmos, estruturas de dados, arquitetura de software e desenvolvimento backend, buscando entender não apenas como escrever código, mas como projetar sistemas eficientes, organizados e escaláveis.<br><br>
+        Durante meus estudos, priorizo o aprendizado baseado em projetos práticos, aplicando meus conhecimentos a problemas reais e explorando diferentes tecnologias de acordo com as necessidades de cada solução.<br><br>
+        Em meu tempo livre, gosto de estudar sobre o mercado financeiro e acompanhar o cenário econômico global.<br><br>
+        <h4>🔧 Main stacks:</h4>
+        <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 <br>
 
-> DATABASE
-<div>
-  <img alt="SQLite" align="center" height="40px" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
-  <img alt="MySQL" align="center" height="40px" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img alt="PostgreSQL" align="center" height="40px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img alt="MongoDB" align="center" height="40px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
-</div>
 <br>
+  <h3>Projetos destaque</h3>
 <br>
 
-> MOBILE
-<div>
-  <img alt="Dart" align="center" height="40px" src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Flutter" align="center" height="40px" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img alt="Kotlin" align="center" height="40px" src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Jetpack Compose" align="center" height="40px" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" />
-  <img alt="React Native" align="center" height="40px" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-</div>
 <br>
-<br>
-
-> FRONT-END
-<div>
-  <img alt="Javascript" align="center" height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img alt="Typescript" align="center" height="40px" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img alt="Angular" align="center" height="40px" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
-  <img alt="Vue" align="center" height="40px" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img alt="React" align="center" height="40px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-</div>
-<br>
-<br>
-
-> FERRAMENTAS
-<div>
-  <img alt="Figma" align="center" height="40px" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img alt="GIT" align="center" height="40px" src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img alt="Jira" align="center" height="40px" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img alt="Jetpack Compose" align="center" height="40px" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" />
-  <img alt="React Native" align="center" height="40px" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-</div>
-<br>
+  <h3>Outras tecnologias</h3>
+  
+  ##
+  > BACK-END
+  <img alt="Backend Icons" align="center" src="https://skillicons.dev/icons?i=nodejs,python,php,cpp,dotnet,spring,laravel&perline=4" />
+  <br>
+  <br>
+  
+  > DATABASE
+  <img alt="Database Icons" align="center" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
+  <br>
+  <br>
+  
+  > MOBILE
+  <img alt="Mobile Icons" align="center" src="https://skillicons.dev/icons?i=dart,flutter,kotlin,react" />
+  <br>
+  <br>
+  
+  > FRONT-END
+  <img alt="Frontend Icons" align="center" src="https://skillicons.dev/icons?i=javascript,typescript,react,angular,vue" />
+  <br>
+  <br>
+  
+  > FERRAMENTAS
+  <img alt="Tools Icons" align="center" src="https://skillicons.dev/icons?i=docker,figma,git&perline=4" />
 <br>
 
-<h3>Conecte-se</h3>
-
-##
-
+<br>
+  <h3>Conecte-se</h3>
+  
+  ##
+  
   <br>
     <div align="center">
       <a href="https://www.github.com/gothlul/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -103,8 +77,8 @@
       <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
     </div>
   <br>
-  
-##
+    
+  ##
 
 
   
