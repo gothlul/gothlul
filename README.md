@@ -1,113 +1,104 @@
 ![Wallpaper-github](https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404)
 
-<img width="35%" align="right" src=""/>
+<hr>
+<h3 align="center">Bem-vindo! 👋</h3>
+<hr>
 
-Bem-vindo
+<h3>Sobre mim</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      imagem
+    </td>
+    <td>
+      Olá! Me chamo Lucas.<br><br>
+      Sou estudante da área de tecnologia e desenvolvedor de software, com foco no desenvolvimento de sistemas, APIs e soluções voltadas à automação de processos.<br><br>
+      Atualmente, aprofundo meus estudos em algoritmos, estruturas de dados, arquitetura de software e desenvolvimento backend, buscando entender não apenas como escrever código, mas como projetar sistemas eficientes, organizados e escaláveis.<br><br>
+      Durante meus estudos, priorizo o aprendizado baseado em projetos práticos, aplicando meus conhecimentos a problemas reais e explorando diferentes tecnologias de acordo com as necessidades de cada solução.<br><br>
+      Em meu tempo livre, gosto de estudar sobre o mercado financeiro e acompanhar o cenário econômico global.<br><br>
+      <h4>🔧 Main stacks:</h4>
+      <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
-- Tecnólogo em Desenvolvimento de Softwares Multiplataforma<br><br>
-- Prototipação de layouts e elementos gráficos com Figma<br><br>
-- Estilização Front-end com CSS, SCSS e SASS<br><br>
-- Implementação de projetos Front-end dinâmicos usando PHP e Javascript<br><br>
-- Criação de projetos performáticos com linguagens Back-end orientada a objeto (C# .NET, Java e Dart Flutter)<br><br>
-- Desenvolvimento de projetos baseados em fluxos de CI/CD<br><br>
-- Criação e modelagem de banco de dados relacional e não relacional com SQL e NoSQL<br><br><br><br><br><br><br>
+<h3>Projetos destaque</h3>
+<h3>Formação & Certificações</h3>
+<h3>Outras tecnologias</h3>
 
-
-### Tecnologias:
-
+##
+> BACK-END
+<div>
+  <img alt=".NET" align="center" height="40px" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Spring" align="center" height="40px" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" /><br>
+  <img alt="NodeJS" align="center" height="40px" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="C++" align="center" height="40px" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
+  <img alt="PHP" align="center" height="40px" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
+  <img alt="Laravel" align="center" height="40px" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" /><br>
+  <img alt="Python" align="center" height="40px" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" /><br>
+</div>
 <br>
 <br>
-<div>
-  <blockquote> 
-    
-  ![Back-end](https://place-hold.it/75x25/0D1117/fff&text=Back-end&bold&fontsize=12) 
-  
-  </blockquote>
 
-  <div>
-    <img alt="PHP" align="center" height="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
-    <img alt="Python" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img alt="C#" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-    <img alt="Java" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img alt="Spring" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-    <img alt="GO" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-    <img alt="Dart" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
-    <br><br><br>
-  </div>
-</div>
+> DATABASE
 <div>
-  <blockquote>
-    
-  ![Banco de dados](https://place-hold.it/75x25/0D1117/fff&text=Database&bold&fontsize=12)
-  
-  </blockquote>
-  <div>
-    <img alt="MySQL" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="MongoDB" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
-    <br><br><br>
-  </div>
+  <img alt="SQLite" align="center" height="40px" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img alt="MySQL" align="center" height="40px" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="PostgreSQL" align="center" height="40px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img alt="MongoDB" align="center" height="40px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
 </div>
-<div>
-  <blockquote>
-    
-  ![Front-end](https://place-hold.it/80x25/0D1117/fff&text=Front-end&bold&fontsize=12)
-    
-  </blockquote>
-  <div>
-    <img alt="HTML5" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img alt="CSS3" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img alt="Javascript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img alt="Typescript" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="Bootstrap" align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <img alt="Materialize" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
-    <img alt="MaterialUI" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-    <img alt="Foundation" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundation/foundation-original.svg" />
-    <img alt="TailwindCSS" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="Angular" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-    <img alt="React" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Bulma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/>
-    <img alt="SASS" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-    <br><br><br>
-  </div>
-</div>
+<br>
+<br>
 
+> MOBILE
 <div>
-  <blockquote>
-    
-  ![Outras](https://place-hold.it/55x25/0D1117/fff&text=Outras&bold&fontsize=12)
-    
-  </blockquote>
-  <div>
-    <img alt="Figma" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img alt="Gimp" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
-    <img alt="Wordpress" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-    <img alt="GIT" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <br><br><br>
-  </div>
+  <img alt="Dart" align="center" height="40px" src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Flutter" align="center" height="40px" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="Kotlin" align="center" height="40px" src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Jetpack Compose" align="center" height="40px" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" />
+  <img alt="React Native" align="center" height="40px" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 </div>
+<br>
+<br>
+
+> FRONT-END
+<div>
+  <img alt="Javascript" align="center" height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="Typescript" align="center" height="40px" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img alt="Angular" align="center" height="40px" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
+  <img alt="Vue" align="center" height="40px" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="React" align="center" height="40px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 </div>
+<br>
+<br>
+
+> FERRAMENTAS
+<div>
+  <img alt="Figma" align="center" height="40px" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img alt="GIT" align="center" height="40px" src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white" />
+  <img alt="Jira" align="center" height="40px" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img alt="Jetpack Compose" align="center" height="40px" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" />
+  <img alt="React Native" align="center" height="40px" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+</div>
+<br>
+<br>
+
+<h3>Conecte-se</h3>
 
 ##
 
-<br>
-<div align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/lucas-rasoppi-6b8000207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-1828B7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1828B7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://api.whatsapp.com/send/?phone=5511945260220&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/whatsapp-1828B7.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-1828B7?style=for-the-badge"/></a>
-  </div>
-</div><br>
-
+  <br>
+    <div align="center">
+      <a href="https://www.github.com/gothlul/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/lucasrasoppi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    </div>
+  <br>
+  
 ##
 
-<br>
-
-### Status
-
-<div>
-  <img align="left" width="400px" alt="window" src="https://i.pinimg.com/564x/df/24/83/df248343848c45dfb9d2c4c4e41009bd.jpg"/>
-  <img width="45%" heigth="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gothlul&layout=compact&langs_count=16&hide_border=true&bg_color=0D1117&title_color=22C7F5&icon_color=1828B7&text_color=ffffff&margin-w=10px"/>
-</div><br><br>
 
   
