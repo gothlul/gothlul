@@ -8,7 +8,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      imagem
+      <!--<img alt="Brain" width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/b5cffac0-fd0e-4c75-8f52-74443df15b72" />-->
+      <!--<img width="772" height="1438" alt="Image" src="https://github.com/user-attachments/assets/9bbd37ea-b097-4f90-90f5-d5ff42d804c1" />-->
+      <!--<img alt="Background" width="1152" height="2048" alt="Image" src="https://github.com/user-attachments/assets/0c5502f6-9741-4348-833f-36f6489007cc" />-->
+      <!--<img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/65037740-4316-4e76-860d-0c25b1e021f2" />-->
+      <!--<img width="736" height="1308" alt="Image" src="https://github.com/user-attachments/assets/4ec573be-1b8e-4044-ab16-5cff9fd8b268" />-->
+      <!--<img width="236" height="354" alt="Image" src="https://github.com/user-attachments/assets/dee92f18-1b35-4528-94c1-826961c64459" />-->
+      <img width="736" height="1313" alt="Image" src="https://github.com/user-attachments/assets/58fb42d2-8efd-4d11-bb20-c894b03af9f0" />
     </td>
     <td>
       Olá! Me chamo Lucas.<br><br>
