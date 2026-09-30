@@ -1,7 +1,7 @@
 ![Wallpaper-github](https://github.com/user-attachments/assets/487be48d-748d-4817-9849-62f4cf1df404)
-
+ 
 <hr>
-  <h3 align="center">Bem-vindo! 👋</h3>
+  <h2 align="center">Bem-vindo! 👋</h2>
 <hr>
 
 <br>
@@ -73,8 +73,8 @@
     <div align="center">
       <a href="https://www.github.com/gothlul/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/lucasrasoppi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://gothlul.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+      <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
   <br>
     
