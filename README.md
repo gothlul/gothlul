@@ -22,6 +22,7 @@
         Durante meus estudos, priorizo o aprendizado baseado em projetos práticos, aplicando meus conhecimentos a problemas reais e explorando diferentes tecnologias de acordo com as necessidades de cada solução.<br><br>
         Em meu tempo livre, gosto de estudar sobre o mercado financeiro e acompanhar o cenário econômico global.<br><br>
         <h4>🔧 Main stacks:</h4>
+        <img src="https://img.shields.io/badge/Flutter-33B9F6?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
@@ -55,7 +56,7 @@
   <br>
   
   > DATABASE
-  <img alt="Database Icons" align="center" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
+  <img alt="Database Icons" align="center" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,firebase" />
   <br>
   <br>
   
