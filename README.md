@@ -31,7 +31,7 @@
   </table>
 <br>
 
-<br>
+<!--<br>
   <h3>Projetos destaque</h3>
   <table align="center">
     <tr>
@@ -44,7 +44,7 @@
       </td>
     </tr>
   </table>
-<br>
+<br>-->
 
 <br>
   <h3>Outras tecnologias</h3>
