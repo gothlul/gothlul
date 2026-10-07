@@ -90,7 +90,7 @@
       <br>
     </td>
     <td align="center" width="30%" height="320">
-      <a href="https://github.com/gothlul/pokedeck-app">
+      <a href="https://github.com/gothlul/BiblioLink">
         <img width="230" height="247" alt="Image" src="https://github.com/user-attachments/assets/a64630c3-f6aa-4673-b573-f8828657e722" />
       </a>
     </td>
