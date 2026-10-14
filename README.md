@@ -103,10 +103,12 @@
   </tr>
  -->
 </table>
+<br>
+<br>
+<br>
 
 <div align="center">
- <hr>
-   <h3>Tech Stack</h3>
+ <h3>Tech Stack</h3>
  <hr>
  <sub><code>BACK-END</code></sub>
  <div>
@@ -182,7 +184,8 @@
     &nbsp;&nbsp;
     <a href="mailto:lrasoppi11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </div>  
-<hr>
+<br>
+<br>
 
 
   
