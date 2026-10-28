@@ -112,13 +112,13 @@
  <hr>
  <sub><code>BACK-END</code></sub>
  <div>
-   <img alt="NodeJS" align="center" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+   <img alt="Java" align="center" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge"/>
+   <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge"/>
+   <img alt="Go" align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
    <img alt="Python" align="center" src="https://img.shields.io/badge/Python-035DA8.svg?style=for-the-badge&logo=Python&logoColor=white" />
-   <img alt="PHP" align="center" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
    <img alt="C++" align="center" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" /><br>
    <img alt=".NET" align="center" src="https://img.shields.io/badge/Dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
    <img alt="Spring" align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
-   <img alt="Laravel" align="center" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
  </div>
  
  <br>
